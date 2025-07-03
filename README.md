@@ -1,2 +1,2 @@
-# Blog-Applicatino
+# Blog-Application
 
